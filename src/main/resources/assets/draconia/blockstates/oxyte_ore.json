@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "draconia:oxyte/oxyte_ore" }
+    }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": [
+      { "model": "draconia:oxyte/oxyte_tnt" },
+      { "model": "draconia:oxyte/oxyte_tnt", "y": 90 },
+      { "model": "draconia:oxyte/oxyte_tnt", "y": 180 },
+      { "model": "draconia:oxyte/oxyte_tnt", "y": 270 }
+    ]
+  }
+}

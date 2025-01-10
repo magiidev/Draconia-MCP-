@@ -1,0 +1,75 @@
+item.oxyte.name=Oxyte
+item.bauxite.name=Bauxite
+item.kobalte.name=Kobalte
+item.dolomite.name=Dolomite
+
+tile.oxyte_block.name=Oxyte Block
+tile.oxyte_ore.name=Oxyte Ore
+
+tile.bauxite_block.name=Bauxite Block
+tile.bauxite_ore.name=Bauxite Ore
+
+tile.kobalte_block.name=Kobalte Block
+tile.kobalte_ore.name=Kobalte Ore
+
+tile.dolomite_block.name=Dolomite Block
+tile.dolomite_ore.name=Dolomite Ore
+
+item.oxyte_stick.name=Oxyte Stick
+item.bauxite_stick.name=Bauxite Stick
+item.kobalte_stick.name=Kobalte Stick
+item.dolomite_stick.name=Dolomite Stick
+
+item.oxyte_hammer.name=Oxyte Hammer
+
+item.oxyte_sword.name=Oxyte Sword
+item.oxyte_pickaxe.name=Oxyte Pickaxe
+item.oxyte_axe.name=Oxyte Axe
+item.oxyte_shovel.name=Oxyte Shovel
+item.oxyte_hoe.name=Oxyte Hoe
+
+item.bauxite_sword.name=Bauxite Sword
+item.bauxite_pickaxe.name=Bauxite Pickaxe
+item.bauxite_axe.name=Bauxite Axe
+item.bauxite_shovel.name=Bauxite Shovel
+item.bauxite_hoe.name=Bauxite Hoe
+
+item.kobalte_sword.name=Kobalte Sword
+item.kobalte_pickaxe.name=Kobalte Pickaxe
+item.kobalte_axe.name=Kobalte Axe
+item.kobalte_shovel.name=Kobalte Shovel
+item.kobalte_hoe.name=Kobalte Hoe
+
+item.dolomite_sword.name=Dolomite Sword
+item.dolomite_pickaxe.name=Dolomite Pickaxe
+item.dolomite_axe.name=Dolomite Axe
+item.dolomite_shovel.name=Dolomite Shovel
+item.dolomite_hoe.name=Dolomite Hoe
+
+item.oxyte_helmet.name=Oxyte Helmet
+item.oxyte_chestplate.name=Oxyte Chestplate
+item.oxyte_leggings.name=Oxyte Leggings
+item.oxyte_boots.name=Oxyte Boots
+
+item.bauxite_helmet.name=Bauxite Helmet
+item.bauxite_chestplate.name=Bauxite Chestplate
+item.bauxite_leggings.name=Bauxite Leggings
+item.bauxite_boots.name=Bauxite Boots
+
+item.kobalte_helmet.name=Kobalte Helmet
+item.kobalte_chestplate.name=Kobalte Chestplate
+item.kobalte_leggings.name=Kobalte Leggings
+item.kobalte_boots.name=Kobalte Boots
+
+item.dolomite_helmet.name=Dolomite Helmet
+item.dolomite_chestplate.name=Dolomite Chestplate
+item.dolomite_leggings.name=Dolomite Leggings
+item.dolomite_boots.name=Dolomite Boots
+
+item.heal_stick.name=Heal Stick
+item.tnt_stick.name=TNT Stick
+item.void_stone.name=Void Stone
+
+itemGroup.draconia=Draconia
+
+enchantment.smelt=Smelt

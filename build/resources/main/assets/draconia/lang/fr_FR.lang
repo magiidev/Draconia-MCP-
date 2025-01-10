@@ -1,0 +1,75 @@
+item.oxyte.name=Oxyte
+item.bauxite.name=Bauxite
+item.kobalte.name=Kobalte
+item.dolomite.name=Dolomite
+
+tile.oxyte_block.name=Bloc de Oxyte
+tile.oxyte_ore.name=Minerai de Oxyte
+
+tile.bauxite_block.name=Bloc de Bauxite
+tile.bauxite_ore.name=Minerai de Bauxite
+
+tile.kobalte_block.name=Bloc de Kobalte
+tile.kobalte_ore.name=Minerai de Kobalte
+
+tile.dolomite_block.name=Bloc de Dolomite
+tile.dolomite_ore.name=Minerai de Dolomite
+
+item.oxyte_stick.name=Bâton en Oxyte
+item.bauxite_stick.name=Bâton en Bauxite
+item.kobalte_stick.name=Bâton en Kobalte
+item.dolomite_stick.name=Bâton en Dolomite
+
+item.oxyte_hammer.name=Marteau en Oxyte
+
+item.oxyte_sword.name=Épée en Oxyte
+item.oxyte_pickaxe.name=Pioche en Oxyte
+item.oxyte_axe.name=Hache en Oxyte
+item.oxyte_shovel.name=Pelle en Oxyte
+item.oxyte_hoe.name=Houe en Oxyte
+
+item.bauxite_sword.name=Épée en Bauxite
+item.bauxite_pickaxe.name=Pioche en Bauxite
+item.bauxite_axe.name=Hache en Bauxite
+item.bauxite_shovel.name=Pelle en Bauxite
+item.bauxite_hoe.name=Houe en Bauxite
+
+item.kobalte_sword.name=Épée en Kobalte
+item.kobalte_pickaxe.name=Pioche en Kobalte
+item.kobalte_axe.name=Hache en Kobalte
+item.kobalte_shovel.name=Pelle en Kobalte
+item.kobalte_hoe.name=Houe en Kobalte
+
+item.dolomite_sword.name=Épée en Dolomite
+item.dolomite_pickaxe.name=Pioche en Dolomite
+item.dolomite_axe.name=Hache en Dolomite
+item.dolomite_shovel.name=Pelle en Dolomite
+item.dolomite_hoe.name=Houe en Dolomite
+
+item.oxyte_helmet.name=Casque en Oxyte
+item.oxyte_chestplate.name=Plastron en Oxyte
+item.oxyte_leggings.name=Jambières en Oxyte
+item.oxyte_boots.name=Bottes en Oxyte
+
+item.bauxite_helmet.name=Casque en Bauxite
+item.bauxite_chestplate.name=Plastron en Bauxite
+item.bauxite_leggings.name=Jambières en Bauxite
+item.bauxite_boots.name=Bottes en Bauxite
+
+item.kobalte_helmet.name=Casque en Kobalte
+item.kobalte_chestplate.name=Plastron en Kobalte
+item.kobalte_leggings.name=Jambières en Kobalte
+item.kobalte_boots.name=Bottes en Kobalte
+
+item.dolomite_helmet.name=Casque en Dolomite
+item.dolomite_chestplate.name=Plastron en Dolomite
+item.dolomite_leggings.name=Jambières en Dolomite
+item.dolomite_boots.name=Bottes en Dolomite
+
+item.heal_stick.name=Bâton de Heal
+item.tnt_stick.name=Bâton de TNT
+item.void_stone.name=Void Stone
+
+itemGroup.draconia=Draconia
+
+enchantment.smelt=Smelt

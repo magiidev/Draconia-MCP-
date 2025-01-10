@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "draconia:blocks/oxyte/oxyte_tnt_bottom",
+    "top": "draconia:blocks/oxyte/oxyte_tnt_top",
+    "side": "draconia:blocks/oxyte/oxyte_tnt_side"
+  }
+}

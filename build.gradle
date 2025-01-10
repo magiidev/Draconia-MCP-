@@ -1,0 +1,22 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.aikodev'
+version = '1.0'
+
+repositories {
+    mavenCentral()
+    maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+    implementation fileTree(include: '*.jar', dir: 'libs')
+
+    // NEW LIBS
+    implementation 'com.github.Vatuu:discord-rpc:1.6.2'
+
+    // IMPORTANT LIBS
+    implementation 'com.google.code.findbugs:jsr305:3.0.2'
+    implementation 'javax.annotation:javax.annotation-api:1.3.2'
+}
